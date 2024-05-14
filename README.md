@@ -7,6 +7,8 @@ Drupal Recipe for testing.
 
 ```shell
 
+composer require grzegorzbartman/drupal_recipe_test_01
+
 php core/scripts/drupal recipe PATH/TO/RECIPE
 
 
