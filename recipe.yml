@@ -3,3 +3,7 @@ description: "An example Drupal recipe description"
 type: 'Test Recipe'
 install:
   - workflows
+
+config:
+    import:
+      workflows: '*'
